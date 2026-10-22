@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1792680205 source:c:\users\hp\desktop\compiler_lab_assignment_01\main.cpp
+	<iostream>
+
+1792676825 source:c:\users\hp\desktop\compiler_lab_assignment_01\task_1.cpp
+	<iostream>
+	<string>
+
+1792679966 source:c:\users\hp\desktop\compiler_lab_assignment_01\task_2.cpp
+	<iostream>
+	<string>
+
+1792677501 source:c:\users\hp\desktop\compiler_lab_assignment_01\task_3.cpp
+	<iostream>
+	<string>
+
+1792678721 source:c:\users\hp\desktop\compiler_lab_assignment_01\task_4.cpp
+	<iostream>
+	<string>
+
+1792679540 source:c:\users\hp\desktop\compiler_lab_assignment_01\task_5.cpp
+	<iostream>
+
+1792679495 source:c:\users\hp\desktop\compiler_lab_assignment_01\task_6.cpp
+	<iostream>
+
+1792679733 source:c:\users\hp\desktop\compiler_lab_assignment_01\task_7.cpp
+	<iostream>
+	<string>
+
